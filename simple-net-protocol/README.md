@@ -26,8 +26,8 @@ The system uses object-oriented design with the following components:
 - **`ip.cpp`** / **`ip.h`** - IP address implementation and matching logic
 - **`port.cpp`** / **`port.h`** - Port number implementation and matching logic
 - **`string.cpp`** - Custom string manipulation utilities
-- **`generic-field.h`** - Base class interface (referenced but not shown)
-- **`input.h`** - Input processing utilities (referenced but not shown)
+- **`generic-field.h`** - Base class interface (required dependency)
+- **`input.h`** - Input processing utilities (required dependency)
 
 ### Scripts
 - **`firewall.sh`** - Firewall simulation script for packet filtering

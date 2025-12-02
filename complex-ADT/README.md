@@ -13,8 +13,8 @@ This project implements a complex data structure for managing student informatio
 ## Files
 
 - **`grades.c`** - Main implementation of the grades ADT
-- **`grades.h`** - Header file with function declarations and type definitions (not shown but referenced)
-- **`linked-list.h`** - Generic linked list implementation (not shown but referenced)
+- **`grades.h`** - Header file with function declarations and type definitions (required dependency)
+- **`linked-list.h`** - Generic linked list implementation (required dependency)
 - **`makefile`** - Standard Unix makefile for building the project
 - **`Makefile.mak`** - Alternative makefile configuration
 
